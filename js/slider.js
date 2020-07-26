@@ -177,7 +177,7 @@ const portfolioSlider = new Slider({
 
 const testimonialsSlider = new Slider({
     visibleSlides: 1,
-    delay: 1000,
+    delay: 2000,
     container: '.testimonials__container',
     sliderWrapper: '.testimonials__cover',
     slide: 'testimonials__person',
